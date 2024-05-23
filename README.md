@@ -1,6 +1,7 @@
 
 # Leonardo Amyntas Filho
  Cursando Ciência da computação na Universidade Católica(Recife,PE)
+ 1º  Período
 
 ## Entrar em contato:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/leonardoamffilho)
@@ -19,9 +20,6 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=leoamff&theme=default&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)
 
-## Minhas contribuições
-[![Repo Card](https://github-readme-stats.vercel.app/api/pin/?username=leoamff&repo=Resumo&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=30A3DC&title_color=E94D5F&text_color=FFF)](https://github.com/leoamff/Resumo)
 
 ## Idiomas:
-- Fluente em Portugês(BR)
-- Intermédiario Inglês - Cursando no Senac
+- Inglês Intermédiario.
